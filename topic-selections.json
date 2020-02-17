@@ -1,0 +1,17 @@
+[
+  {
+    "uid": 1,
+    "name": "Graphic Design",
+    "level": 2
+  },
+  {
+    "uid": 2,
+    "name": "Artificial Intelligence",
+    "level": 3
+  },
+  {
+    "uid": 3,
+    "name": "Accounting",
+    "level": 3
+  }
+]

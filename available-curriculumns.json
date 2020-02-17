@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Inteligencia Artificial"
+  },
+  {
+    "id": 2,
+    "name": "Diseño Gráfico"
+  },
+  {
+    "id": 3,
+    "name": "Finanzas"
+  },
+  {
+    "id": 4,
+    "name": "Fotografía"
+  },
+  {
+    "id": 5,
+    "name": "Mercadeo"
+  },
+  {
+    "id": 6,
+    "name": "Contabilidad"
+  },
+  {
+    "id": 6,
+    "name": "Informática"
+  }
+]
